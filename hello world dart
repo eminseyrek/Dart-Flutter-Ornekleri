@@ -1,0 +1,8 @@
+void main(List<String> args) {
+  print("emin seyrek");
+  print('emin seyrek');
+  print('3 + 5');
+  print(3 + 5);
+  print("emin'in dersleri");
+  print("emin" + " seyrek");
+}
